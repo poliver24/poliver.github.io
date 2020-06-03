@@ -1,0 +1,28 @@
+<!-- inject:../components/baseHead/baseHeadStart.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="icon" type="image/png" sizes="16x16" href="img/icon.png">
+
+
+    {{ partial "head.html" . }}
+
+    {{ partial "head_custom.html" . }}
+
+</head>
+
+<body>
+
+	{{ partial "header.html" . }}
+
+	{{ range .Site.Params.sections }}
+	{{ partial . $ }}
+	{{ end }}
+
+	{{ partial "footer.html" . }}
+    {{ partial "base-foot.html" . }}
+</body>
+
+</html>
+<!-- endinject -->
