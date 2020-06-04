@@ -1,4 +1,4 @@
-baseURL = "http://patchup.io/"
+baseURL = "https://patchup.io"
 languageCode = "en-us"
 title = "Patchup Portfolio Site"
 theme = "raditian-free-hugo-theme"
