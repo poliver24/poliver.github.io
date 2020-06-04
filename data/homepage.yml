@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-linkedin-fill"
     btnText: "linkedIn"
-    URL: "https://linkedin.com/in/patrick-oliver/"
+    URL: "#contact"
       
 # about
 about:
@@ -48,13 +48,13 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "Makers Academy"
+      year: "2020"
+      degree: "Full-Stack Software Development"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Coventry University"
+      year: "2015-2018"
+      degree: "Bachelor of Science (BSc), Combined Engineering"
 
 # experience
 experience:
@@ -71,56 +71,21 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Freelance Software Developer"
+      company: "Patchup"
+      duration: "May 2020 - Present"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
-
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Robotics Safety Engineer"
+      company: "Comau UK"
+      duration: "Jul 2018 - Jul 2019"
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Projects"
   enable: true
 
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
   works:
-    - title: "Radity Finance - UI Kit"
+    - title: "Age UK - Volunteer Matching"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
@@ -131,7 +96,7 @@ client_and_work:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
+    - title: "Space Trash"
       description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
       button:
         icon: "icon-arrow-right"
@@ -142,7 +107,7 @@ client_and_work:
         _2x: "img/works/swissfintech@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
+    - title: "Thermostat JS"
       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
       button:
         icon: "icon-arrow-right"
@@ -155,7 +120,7 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
