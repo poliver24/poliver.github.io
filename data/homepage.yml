@@ -9,12 +9,12 @@ showcase:
   subtitle: "Full-Stack Developer"
   description: "A self starter with an innovative mindset and overall great guy to talk to (especially when coffee and cake is involved)."
   image:
-    alt: "Showcase keyboard and mouse image"
+    alt: "Patch Gif"
     x: "img/showcase/PATCH.gif"
     _2x: "img/showcase/PATCH@2x.gif"
   imageMobile:
-    alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
+    alt: "Patch gif"
+    x: "img/showcase/PATCH.gif"
 
   button:
     icon: "icon-linkedin-fill"
