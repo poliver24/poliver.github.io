@@ -11323,7 +11323,7 @@ h2 {
 
 h2 {
     font-size: 32px;
-    color: #4ea8df
+    color: #005b92
 }
 
 @media (min-width:992px) {
@@ -11345,7 +11345,7 @@ h3 {
 @media (min-width:992px) {
     h3 {
         font-size: 32px;
-        color: #4ea8df
+        color: #005b92
     }
 
     p {
@@ -12731,7 +12731,7 @@ textarea:focus {
 
     .rad-showcase .container h1 {
         font-size: 48px;
-        color: #4ea8df;
+        color: #005b92;
     }
 }
 
