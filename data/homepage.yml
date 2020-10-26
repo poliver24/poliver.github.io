@@ -84,7 +84,7 @@ client_and_work:
 
   works:
     - title: "Puppy-Pals"
-      description: "A MERN Stack Web Application, built to help dog owners find a play date for their canine companion"
+      description: "A MERN Stack Web Application, built to help dog owners find a play date for their canine companion. Hosted on GKE using Docker."
       button:
         icon: "icon-arrow-right"
         btnText: "GitHub Repo"
@@ -95,7 +95,7 @@ client_and_work:
       is_even: true
 
     - title: "Age UK - Volunteer Matching"
-      description: "An app built to connect seniors and volunteers based on mutual interests and hobbies"
+      description: "An app built to connect seniors and volunteers based on mutual interests and hobbies. Built using a Ruby on Rails API with a React frontend"
       button:
         icon: "icon-arrow-left"
         btnText: "GitHub Repo"
@@ -117,7 +117,7 @@ client_and_work:
       is_even: true
 
     - title: "Acebook"
-      description: "Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record."
+      description: "Our take on Facebook, completed using Ruby on Rails and PostgreSQL Database integration with Active Record."
       button:
         icon: "icon-arrow-left"
         btnText: "GitHub Repo"
