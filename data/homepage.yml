@@ -103,7 +103,7 @@ client_and_work:
       image:
         x: ""
         _2x: ""
-      is_even: true
+      is_even: false
 
     - title: "Space Trash"
       description: "A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS."
@@ -114,7 +114,7 @@ client_and_work:
       image:
         x: "img/works/space-trash.png"
         _2x: "img/works/space-trash@2x.png"
-      is_even: false
+      is_even: true
 
     - title: "Acebook"
       description: "Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record."
@@ -125,7 +125,7 @@ client_and_work:
       image:
         x: "img/works/acebook.png"
         _2x: "img/works/acebook.png"
-      is_even: true
+      is_even: false
 
 # testimonial
 testimonial:
