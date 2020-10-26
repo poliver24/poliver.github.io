@@ -11969,8 +11969,7 @@ html body {
     }
 
     .img-clip-left-backward {
-        /* -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%);
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%) */
+
     }
 }
 
@@ -12118,18 +12117,15 @@ textarea:focus {
 
 @media (min-width:768px) {
     .img-clip-left-forward {
-        -webkit-clip-path: polygon(14% 0, 100% 0, 100% 100%, 0 100%);
-        clip-path: polygon(14% 0, 100% 0, 100% 100%, 0 100%)
+
     }
 
     .img-clip-right-backward {
-        -webkit-clip-path: polygon(0 0, 86% 0, 100% 100%, 0 100%);
-        clip-path: polygon(0 0, 86% 0, 100% 100%, 0 100%)
+
     }
 
     .img-clip-right-forward {
-        -webkit-clip-path: polygon(0 0, 100% 0, 86% 100%, 0 100%);
-        clip-path: polygon(0 0, 100% 0, 86% 100%, 0 100%)
+
     }
 
     .section div[class*=col-] img.image-left-overflow {
