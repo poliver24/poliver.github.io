@@ -90,7 +90,7 @@ client_and_work:
         btnText: "GitHub Repo"
         URL: "https://github.com/dariathompson/puppy-pals"
       image:
-        x: "PUPPY_PALS-01.png"
+        x: "img/works/PUPPY_PALS-01.png"
         _2x: ""
       is_even: true
 
