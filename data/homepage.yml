@@ -90,8 +90,8 @@ client_and_work:
         btnText: "GitHub Repo"
         URL: "https://github.com/dariathompson/puppy-pals"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: ""
+        _2x: ""
       is_even: true
 
     - title: "Age UK - Volunteer Matching"
@@ -101,8 +101,8 @@ client_and_work:
         btnText: "GitHub Repo"
         URL: "https://github.com/poliver24/Age-UK-Volunteer-Matching"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: ""
+        _2x: ""
       is_even: true
 
     - title: "Space Trash"
