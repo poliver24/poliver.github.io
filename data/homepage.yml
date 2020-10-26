@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-linkedin-fill"
     btnText: "linkedIn"
-    URL: "#contact"
+    URL: "https://www.linkedin.com/in/patrick-oliver/"
       
 # about
 about:
