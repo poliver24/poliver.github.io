@@ -26,14 +26,12 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    	I’m a Full-Stack Developer,  currently based in London, UK
+      A recent graduate from one of Europe’s most selective coding bootcamps, Makers Academy. 
+      With a background and BSc in Engineering, I enjoy following a process driven approach, and work exceptionally well in an Iterative/Agile environment. 
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+      With experience in a number of technologies including Ruby, JavaScript, React, React Native, AWS I am now looking to land a Junior Developer role to further learn and develop my skills. 
     </p>'
   button:
     icon: "icon-github-line"
@@ -60,14 +58,14 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: ""
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/patrick-oliver/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Download My CV"
     URL: "#"
 
   items:
@@ -86,7 +84,7 @@ client_and_work:
 
   works:
     - title: "Age UK - Volunteer Matching"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      description: "An app built to connect seniors and volunteers based on mutual interests and hobbies"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -97,52 +95,32 @@ client_and_work:
       is_even: true
 
     - title: "Space Trash"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      description: "A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/space-trash.png"
+        _2x: "img/works/space-trash@2x.png"
       is_even: false
 
-    - title: "Thermostat JS"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Acebook"
+      description: "Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/acebook.png"
+        _2x: "img/works/acebook.png"
       is_even: true
 
 # testimonial
 testimonial:
   enable: false
-  title: "Testimonials"
+  title: 
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
-      image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
-
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
-      image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
-
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
-      image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
 
 # contact
 contact:
