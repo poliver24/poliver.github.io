@@ -113,7 +113,7 @@ client_and_work:
         URL: "https://github.com/poliver24/Space_Trash"
       image:
         x: "img/works/space-trash.png"
-        _2x: "img/works/space-trash.png"
+        _2x: "img/works/space-trash@2x.png"
       is_even: true
 
     - title: "Acebook"
