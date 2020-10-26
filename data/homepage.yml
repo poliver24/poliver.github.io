@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Patrick."
   subtitle: "Full-Stack Developer"
-  description: "A self starter with an innovative mindset and overall great guy to talk to (especially when coffee and cake is involved)."
+  # description: "A self starter with an innovative mindset and overall great guy to talk to (especially when coffee and cake is involved)."
   image:
     alt: "Patch Gif"
     x: "img/showcase/PATCH.gif"
