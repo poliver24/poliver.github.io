@@ -83,12 +83,23 @@ client_and_work:
   enable: true
 
   works:
+    - title: "Puppy-Pals"
+      description: "A MERN Stack Web Application, built to help dog owners find a play date for their canine companion"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "GitHub Repo"
+        URL: "https://github.com/dariathompson/puppy-pals"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
     - title: "Age UK - Volunteer Matching"
       description: "An app built to connect seniors and volunteers based on mutual interests and hobbies"
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "GitHub Repo"
+        URL: "https://github.com/poliver24/Age-UK-Volunteer-Matching"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
@@ -98,8 +109,8 @@ client_and_work:
       description: "A research project created to tackle the ever growing Space Debris problem. Featuring Machine Learning using TensorFlow and 3D Visualisation with CesiumJS."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "GitHub Repo"
+        URL: "https://github.com/poliver24/Space_Trash"
       image:
         x: "img/works/space-trash.png"
         _2x: "img/works/space-trash@2x.png"
@@ -109,8 +120,8 @@ client_and_work:
       description: "Our take on Facebook, completed using Ruby on Rails and Postgres Database integration with Active Record."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "GitHub Repo"
+        URL: "https://github.com/poliver24/Acebook"
       image:
         x: "img/works/acebook.png"
         _2x: "img/works/acebook.png"
