@@ -11969,8 +11969,8 @@ html body {
     }
 
     .img-clip-left-backward {
-        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%);
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%)
+        /* -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 14% 100%) */
     }
 }
 
