@@ -101,7 +101,7 @@ client_and_work:
         btnText: "GitHub Repo"
         URL: "https://github.com/poliver24/Age-UK-Volunteer-Matching"
       image:
-        x: ""
+        x: "img/works/age_uk_logo.png"
         _2x: ""
       is_even: false
 
