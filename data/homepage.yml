@@ -26,12 +26,12 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    	I’m a Full-Stack Developer,  currently based in London, UK
+    	I’m a Full-Stack Developer, currently based in London UK.
       A recent graduate from one of Europe’s most selective coding bootcamps, Makers Academy. 
       With a background and BSc in Engineering, I enjoy following a process driven approach, and work exceptionally well in an Iterative/Agile environment. 
     </p>
     <p class="lead">
-      With experience in a number of technologies including Ruby, JavaScript, React, React Native, AWS I am now looking to land a Junior Developer role to further learn and develop my skills. 
+      With experience in a number of technologies including Ruby, JavaScript, React, and AWS I am now looking to land a Junior Developer role to further learn and develop my skills. 
     </p>'
   button:
     icon: "icon-github-line"
