@@ -91,7 +91,7 @@ client_and_work:
         URL: "https://github.com/dariathompson/puppy-pals"
       image:
         x: "img/works/PUPPY_PALS-01.png"
-        _2x: ""
+        _2x: "img/works/PUPPY_PALS-01.png"
       is_even: true
 
     - title: "Age UK - Volunteer Matching"
@@ -102,7 +102,7 @@ client_and_work:
         URL: "https://github.com/poliver24/Age-UK-Volunteer-Matching"
       image:
         x: "img/works/age_uk_logo.png"
-        _2x: ""
+        _2x: "img/works/age_uk_logo.png"
       is_even: false
 
     - title: "Space Trash"
